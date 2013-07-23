@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">美丽广西</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="content">content</string>
+    <string name="welcome_anter_btn">进入大赛</string>
+    <string name="unit">unit</string>
+    <string name="back">返回</string>
+    <string name="share">分享</string>
+    <string name="title_01">美丽广西--清洁乡村</string>
+    <string name="bottom_01">拍照上传</string>
+    <string name="bottom_02">照片上传</string>
+    <string name="bottom_03">我的作品</string>
+    <string name="scroe_icon">赞一个</string>
+    <string name="textvs1">指导单位：自治区党委宣传部 自治区“美丽办”</string>
+    <string name="textvs2">自治区互联网信息办</string>
+    <string name="textvs3">主办单位：广西日报社传媒集团</string>
+    <string name="textvs4">承办单位：南国早报 南国早报网</string>
+    <string name="welcome_bottom_title">大赛简介</string>
+    <string name="btn_01">作品浏览</string>
+    <string name="welcome_bottom01">"美丽广西 清洁乡村"新闻摄影大赛是南国早报（网）在自治区党委宣传部、自治区“美丽办”、自治区互联网信息办指导下举办的，旨在生动、全面地......</string>
+    <string name="welcome_bottom">为了全面展示全区“美丽广西。清洁乡村”活动成果，南国早报（网）决定于2013年7月至2014年1月期间举办“美丽广西。清洁乡村”新闻摄影大赛。</string>
+    <string name="title_activity_kevin">KevinActivity</string>
+    <string name="title_activity_show">ShowActivity</string>
+    <string name="title_activity_activity_index">Activity_index</string>
+
+</resources>

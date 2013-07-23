@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:id="@+id/wel_ly"
+    android:background="@drawable/weitu"
+    >
+
+    <LinearLayout
+        android:id="@+id/wel_ly01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_weight="2"       
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/wel_ly02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/wel_ly03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        
+        android:orientation="vertical" >
+        <Button 
+            android:id="@+id/btn01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_01"
+            android:gravity="center"
+            
+            />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/wel_ly04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:gravity="center|bottom"
+        android:orientation="vertical" >
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/welcome_bottom_title"    
+            />
+        <View 
+            android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="#FF0000"
+            
+            />
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:text="@string/welcome_bottom"  
+            android:paddingBottom="10dp"  
+            />
+        <ImageView 
+            android:layout_width="20dp"
+            android:layout_height="10dp"
+            android:paddingTop="10dp"
+            android:background="@drawable/welcome_arrow"
+            
+            />
+        
+    </LinearLayout>
+
+</LinearLayout>
