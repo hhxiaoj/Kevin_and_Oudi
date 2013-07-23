@@ -25,5 +25,10 @@
     <string name="title_activity_kevin">KevinActivity</string>
     <string name="title_activity_show">ShowActivity</string>
     <string name="title_activity_activity_index">Activity_index</string>
+    <string name="title_activity_activity__upload">Activity_Upload</string>
+    <string name="upload_title01">上传作品</string>
+    <string name="upload_button01">继续添加</string>
+    <string name="upload_button02">发布</string>
+    <string name="title_activity_activity__camera">Activity_Camera</string>
 
 </resources>

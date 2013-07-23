@@ -26,6 +26,14 @@
             android:name="com.example.gxzzbphoto.Activity_index"
             android:label="@string/title_activity_activity_index" >
         </activity>
+        <activity
+            android:name="com.example.gxzzbphoto.Activity_Upload"
+            android:label="@string/title_activity_activity__upload" >
+        </activity>
+        <activity
+            android:name="com.example.gxzzbphoto.Activity_Camera"
+            android:label="@string/title_activity_activity__camera" >
+        </activity>
     </application>
 
 </manifest>
